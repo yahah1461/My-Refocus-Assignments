@@ -1,0 +1,14 @@
+{
+  "name": "automated-testing",
+  "version": "1.0.0",
+  "description": "My Second automated testing with Jest",
+  "main": "bmi _calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Alvin Paulo",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
